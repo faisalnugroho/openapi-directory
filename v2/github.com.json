@@ -11,7 +11,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -49,7 +49,7 @@
         ],
         "x-github-plan": "api.github.com",
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -92,7 +92,7 @@
         ],
         "x-github-plan": "api.github.com",
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -135,7 +135,7 @@
         ],
         "x-github-plan": "ghec",
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -178,7 +178,7 @@
         ],
         "x-github-plan": "ghec",
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -220,7 +220,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -262,7 +262,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -304,7 +304,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -346,7 +346,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -388,7 +388,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -430,7 +430,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -472,7 +472,7 @@
           "developer_tools"
         ],
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg"
         },
         "x-origin": [
           {
@@ -516,7 +516,7 @@
         "x-github-plan": "ghes",
         "x-github-release": 3.2,
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -560,7 +560,7 @@
         "x-github-plan": "ghes",
         "x-github-release": 3.3,
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -604,7 +604,7 @@
         "x-github-plan": "ghes",
         "x-github-release": 3.4,
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -648,7 +648,7 @@
         "x-github-plan": "ghes",
         "x-github-release": 3.5,
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -692,7 +692,7 @@
         "x-github-plan": "ghes",
         "x-github-release": 3.6,
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -736,7 +736,7 @@
         "x-github-plan": "ghes",
         "x-github-release": 3.7,
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -780,7 +780,7 @@
         "x-github-plan": "ghes",
         "x-github-release": 3.8,
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {
@@ -823,7 +823,7 @@
         ],
         "x-github-plan": "github.ae",
         "x-logo": {
-          "url": "https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image"
+          "url": "https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg"
         },
         "x-origin": [
           {

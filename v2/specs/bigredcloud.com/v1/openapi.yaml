@@ -26,7 +26,7 @@ info:
   x-apisguru-categories:
     - financial
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_www.bigredcloud.com_wp-content_uploads_BRCfavicon.gif
+    url: https://api.apis.guru/v2/cache/logo/https_www_bigredcloud_com_wp-content_uploads_BRCfavicon.svg
   x-origin:
     - format: swagger
       url: https://app.bigredcloud.com/api/swagger/docs/v1

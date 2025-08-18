@@ -8,7 +8,7 @@ info:
   x-apisguru-categories:
     - financial
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_linuxfoundation.org_wp-content_uploads_lf_yoast.jpg
+    url: https://api.apis.guru/v2/cache/logo/https_linuxfoundation_org_wp-content_uploads_lf_yoast.svg
   x-origin:
     - format: swagger
       url: https://api-gw.dev.platform.linuxfoundation.org/reimbursement-service/swagger.json

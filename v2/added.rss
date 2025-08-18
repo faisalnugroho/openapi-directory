@@ -24,7 +24,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">1password.com:events</guid>
       <pubDate>Mon, 19 Jul 2021 10:17:09 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_upload.wikimedia.org_wikipedia_commons_thumb_e_e3_1password-logo.svg_1280px-1password-logo.svg.png" length="15026" type="image/svg+xml"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_upload_wikimedia_org_wikipedia_commons_thumb_e_e3_1password-logo_svg_1280px-1password-logo_svg.svg" length="15026" type="image/svg+xml"/>
     </item>
     <item>
       <title>1password.local:connect 1.5.7 1Password Connect</title>
@@ -33,7 +33,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">1password.local:connect</guid>
       <pubDate>Fri, 16 Apr 2021 15:56:45 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_upload.wikimedia.org_wikipedia_commons_thumb_e_e3_1password-logo.svg_1280px-1password-logo.svg.png" length="15026" type="image/svg+xml"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_upload_wikimedia_org_wikipedia_commons_thumb_e_e3_1password-logo_svg_1280px-1password-logo_svg.svg" length="15026" type="image/svg+xml"/>
     </item>
     <item>
       <title>6-dot-authentiqio.appspot.com 6 Authentiq API</title>
@@ -51,7 +51,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ably.io:platform</guid>
       <pubDate>Sat, 13 Jul 2019 11:28:07 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ablyrealtime_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ablyrealtime_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ably.net:control 1.0.14 Control API v1</title>
@@ -60,7 +60,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ably.net:control</guid>
       <pubDate>Mon, 26 Jul 2021 09:45:31 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ablyrealtime_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ablyrealtime_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>abstractapi.com:geolocation 1.0.0 IP geolocation API</title>
@@ -96,7 +96,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:AccountService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:BalanceControlService 1 Adyen Balance Control API</title>
@@ -105,7 +105,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:BalanceControlService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:BalancePlatformConfigurationNotification-v1 1 Configuration webhooks</title>
@@ -114,7 +114,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:BalancePlatformConfigurationNotification-v1</guid>
       <pubDate>Thu, 23 Mar 2023 23:19:15 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:BalancePlatformPaymentNotification-v1 1 Payment webhooks (deprecated)</title>
@@ -123,7 +123,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:BalancePlatformPaymentNotification-v1</guid>
       <pubDate>Fri, 17 Mar 2023 23:18:27 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:BalancePlatformReportNotification-v1 1 Report webhooks</title>
@@ -132,7 +132,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:BalancePlatformReportNotification-v1</guid>
       <pubDate>Thu, 23 Mar 2023 23:19:15 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:BalancePlatformService 2 Configuration API</title>
@@ -150,7 +150,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:BalancePlatformTransferNotification-v3</guid>
       <pubDate>Fri, 17 Mar 2023 23:18:27 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:BinLookupService 54 Adyen BinLookup API</title>
@@ -159,7 +159,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:BinLookupService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:CheckoutService 70 Adyen Checkout API</title>
@@ -177,7 +177,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:CheckoutUtilityService</guid>
       <pubDate>Fri, 18 Jun 2021 13:57:32 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:DataProtectionService 1 Adyen Data Protection API</title>
@@ -186,7 +186,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:DataProtectionService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:FundService 6 Fund API</title>
@@ -195,7 +195,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:FundService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:HopService 6 Hosted onboarding API</title>
@@ -204,7 +204,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:HopService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:LegalEntityService 3 Legal Entity Management API</title>
@@ -213,7 +213,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:LegalEntityService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:ManagementNotificationService-v1 1 Management Webhooks</title>
@@ -222,7 +222,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:ManagementNotificationService-v1</guid>
       <pubDate>Wed, 22 Mar 2023 23:16:51 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:ManagementService 1 Management API</title>
@@ -231,7 +231,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:ManagementService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:MarketPayNotificationService 6 Classic Platforms - Notifications</title>
@@ -240,7 +240,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:MarketPayNotificationService</guid>
       <pubDate>Mon, 21 Jun 2021 10:54:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:NotificationConfigurationService 6 Notification Configuration API</title>
@@ -249,7 +249,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:NotificationConfigurationService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:PaymentService 68 Adyen Payment API</title>
@@ -258,7 +258,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:PaymentService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:PayoutService 68 Adyen Payout API</title>
@@ -267,7 +267,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:PayoutService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:RecurringService 68 Adyen Recurring API</title>
@@ -276,7 +276,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:RecurringService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:StoredValueService 46 Adyen Stored Value API</title>
@@ -285,7 +285,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:StoredValueService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:TestCardService 1 Adyen Test Cards API</title>
@@ -294,7 +294,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:TestCardService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:TfmAPIService 1 POS Terminal Management API</title>
@@ -303,7 +303,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:TfmAPIService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>adyen.com:TransferService 3 Transfers API</title>
@@ -312,7 +312,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">adyen.com:TransferService</guid>
       <pubDate>Fri, 17 Feb 2023 11:02:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>afterbanks.com 3.0.0 Afterbanks API</title>
@@ -3111,7 +3111,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">amentum.space:atmosphere</guid>
       <pubDate>Thu, 01 Aug 2019 15:56:31 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_amentumspace_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_amentumspace_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>amentum.space:aviation_radiation 1.5.0 Aviation Radiation API</title>
@@ -3120,7 +3120,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">amentum.space:aviation_radiation</guid>
       <pubDate>Mon, 04 Jan 2021 14:57:07 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_amentumspace_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_amentumspace_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>amentum.space:global-magnet 1.3.0 Geomag API</title>
@@ -3129,7 +3129,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">amentum.space:global-magnet</guid>
       <pubDate>Mon, 15 Jul 2019 12:58:08 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_amentumspace_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_amentumspace_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>amentum.space:gravity 1.1.1 Gravity API</title>
@@ -3138,7 +3138,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">amentum.space:gravity</guid>
       <pubDate>Mon, 04 Jan 2021 14:52:32 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_amentumspace_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_amentumspace_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>amentum.space:space_radiation 1.1.2 Space Radiation API</title>
@@ -3147,7 +3147,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">amentum.space:space_radiation</guid>
       <pubDate>Mon, 04 Jan 2021 14:54:09 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_amentumspace_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_amentumspace_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>anchore.io 0.1.20 Anchore Engine API Server</title>
@@ -3165,7 +3165,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">apache.org</guid>
       <pubDate>Sat, 04 Mar 2023 16:22:29 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_TheASF_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_TheASF_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>apache.org:airflow 2.5.1 Airflow API (Stable)</title>
@@ -3174,7 +3174,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">apache.org:airflow</guid>
       <pubDate>Sat, 04 Mar 2023 15:43:06 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_TheASF_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_TheASF_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>apache.org:qakka v1 Qakka</title>
@@ -3183,7 +3183,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">apache.org:qakka</guid>
       <pubDate>Fri, 02 Mar 2018 12:25:21 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_TheASF_profile_image.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_TheASF_profile_image.svg.png" length="15026" type="image/png"/>
     </item>
     <item>
       <title>apacta.com 0.0.42 Apacta</title>
@@ -3201,7 +3201,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">api.ebay.com:sell-account</guid>
       <pubDate>Sat, 18 Jul 2020 21:17:36 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>api.ebay.com:sell-analytics 1.2.0  Seller Service Metrics API </title>
@@ -3210,7 +3210,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">api.ebay.com:sell-analytics</guid>
       <pubDate>Sat, 18 Jul 2020 21:17:36 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>api.ebay.com:sell-compliance 1.4.1 Compliance API</title>
@@ -3219,7 +3219,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">api.ebay.com:sell-compliance</guid>
       <pubDate>Sat, 18 Jul 2020 21:17:36 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>api.gov.uk:vehicle-enquiry 1.1.0 Vehicle Enquiry API</title>
@@ -3273,7 +3273,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">apidapp.com</guid>
       <pubDate>Mon, 23 Mar 2020 13:57:32 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_i2.wp.com_apidapp.com_wp-content_uploads_2019_03_cropped-ApiDappIcon.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_i2_wp_com_apidapp_com_wp-content_uploads_2019_03_cropped-ApiDappIcon.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>apideck.com:accounting 9.3.0 Accounting API</title>
@@ -5100,7 +5100,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">apiz.ebay.com:commerce-identity</guid>
       <pubDate>Thu, 16 Jul 2020 10:21:02 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>apiz.ebay.com:sell-finances v1.15.0 eBay Finances API</title>
@@ -5109,7 +5109,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">apiz.ebay.com:sell-finances</guid>
       <pubDate>Thu, 16 Jul 2020 10:07:31 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>appcenter.ms v0.1 App Center Client</title>
@@ -5163,7 +5163,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">appwrite.io:client</guid>
       <pubDate>Thu, 12 Aug 2021 15:35:25 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/_images_apple.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/_images_apple.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>appwrite.io:server 0.9.3 Appwrite</title>
@@ -5172,7 +5172,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">appwrite.io:server</guid>
       <pubDate>Thu, 12 Aug 2021 15:35:06 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/_images_apple.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/_images_apple.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>archive.org:search 1.0.0 Search Services</title>
@@ -11193,7 +11193,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">balldontlie.io</guid>
       <pubDate>Tue, 21 Feb 2023 16:06:57 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_balldontlie.io_logo192.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_balldontlie_io_logo192.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>bandsintown.com 3.0.0 Bandsintown API</title>
@@ -11319,7 +11319,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">bigredcloud.com</guid>
       <pubDate>Mon, 15 Feb 2021 22:26:07 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www.bigredcloud.com_wp-content_uploads_BRCfavicon.gif" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www_bigredcloud_com_wp-content_uploads_BRCfavicon.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>bikewise.org v2 BikeWise API v2</title>
@@ -11328,7 +11328,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">bikewise.org</guid>
       <pubDate>Mon, 13 Jul 2015 11:41:15 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www.bikewise.org_fav.ico" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www_bikewise_org_fav.png" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>billbee.io v1 Billbee API</title>
@@ -11499,7 +11499,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">bulksms.com</guid>
       <pubDate>Tue, 03 Apr 2018 17:20:58 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/_developer_images_bulksms.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/_developer_images_bulksms.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>bungie.net 2.18.0 Bungie.Net API</title>
@@ -11634,7 +11634,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">channel4.com</guid>
       <pubDate>Mon, 27 Jun 2016 13:56:46 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Channel4_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Channel4_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>chompthis.com 1.0.0-oas3 Chomp Food Database API Documentation</title>
@@ -11679,7 +11679,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">cisco.com</guid>
       <pubDate>Wed, 14 Sep 2016 11:20:07 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core.clearbit.com_cisco.com" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core_clearbit_com_cisco.png" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>citrixonline.com:gotomeeting 1.0.0 GoToMeeting</title>
@@ -11931,7 +11931,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">color.pizza</guid>
       <pubDate>Mon, 20 Feb 2023 14:02:42 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_github.com_meodai_color-name-api_raw_main_logo.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_github_com_meodai_color-name-api_raw_main_logo.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>combell.com v2 Public Api</title>
@@ -12048,7 +12048,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">credas.co.uk:pi</guid>
       <pubDate>Thu, 29 Apr 2021 09:49:43 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www.credas.co.uk_wp-content_uploads_2018_02_favicon.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www_credas_co_uk_wp-content_uploads_2018_02_favicon.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>crediwatch.com:covid19 1.3.0 Crediwatch&apos;s Covid APIs</title>
@@ -12417,7 +12417,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:buy-browse</guid>
       <pubDate>Mon, 31 Jul 2017 09:48:45 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:buy-deal v1.3.0 Deal API</title>
@@ -12426,7 +12426,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:buy-deal</guid>
       <pubDate>Thu, 16 Jul 2020 10:14:21 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:buy-feed v1_beta.34.0 Item Feed Service</title>
@@ -12435,7 +12435,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:buy-feed</guid>
       <pubDate>Mon, 27 Nov 2017 09:31:58 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:buy-marketing v1_beta.2.0 Buy Marketing API</title>
@@ -12444,7 +12444,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:buy-marketing</guid>
       <pubDate>Mon, 31 Jul 2017 09:48:45 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:commerce-catalog v1_beta.5.0 Catalog API</title>
@@ -12453,7 +12453,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:commerce-catalog</guid>
       <pubDate>Thu, 16 Jul 2020 10:19:48 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:commerce-charity v1.2.1 Charity API</title>
@@ -12462,7 +12462,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:commerce-charity</guid>
       <pubDate>Thu, 16 Jul 2020 10:20:33 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:commerce-taxonomy v1.0.0 Taxonomy API</title>
@@ -12471,7 +12471,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:commerce-taxonomy</guid>
       <pubDate>Mon, 31 Jul 2017 09:48:45 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:commerce-translation 1 Translation API</title>
@@ -12480,7 +12480,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:commerce-translation</guid>
       <pubDate>Thu, 16 Jul 2020 10:21:40 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:developer-analytics v1_beta.0.0 Analytics API</title>
@@ -12489,7 +12489,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:developer-analytics</guid>
       <pubDate>Thu, 16 Jul 2020 10:22:46 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-account v1.9.0 Account API</title>
@@ -12498,7 +12498,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-account</guid>
       <pubDate>Thu, 16 Jul 2020 10:00:03 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-analytics 1.2.0  Seller Service Metrics API </title>
@@ -12507,7 +12507,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-analytics</guid>
       <pubDate>Thu, 16 Jul 2020 10:00:38 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-compliance 1.4.1 Compliance API</title>
@@ -12516,7 +12516,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-compliance</guid>
       <pubDate>Thu, 16 Jul 2020 10:01:24 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-feed v1.3.1 Feed API</title>
@@ -12525,7 +12525,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-feed</guid>
       <pubDate>Thu, 16 Jul 2020 10:06:57 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-fulfillment v1.19.19 Fulfillment API</title>
@@ -12534,7 +12534,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-fulfillment</guid>
       <pubDate>Mon, 27 Nov 2017 09:31:58 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-listing v1_beta.3.0 Listing API</title>
@@ -12543,7 +12543,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-listing</guid>
       <pubDate>Thu, 16 Jul 2020 10:09:23 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-logistics v1_beta.0.0 Logistics API</title>
@@ -12552,7 +12552,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-logistics</guid>
       <pubDate>Thu, 16 Jul 2020 10:10:08 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-marketing v1.14.0 Marketing API</title>
@@ -12561,7 +12561,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-marketing</guid>
       <pubDate>Thu, 16 Jul 2020 10:10:51 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-metadata v1.6.0 Metadata API</title>
@@ -12570,7 +12570,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-metadata</guid>
       <pubDate>Thu, 16 Jul 2020 10:11:43 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-negotiation v1.1.0 Negotiation API</title>
@@ -12579,7 +12579,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-negotiation</guid>
       <pubDate>Thu, 16 Jul 2020 10:12:17 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebay.com:sell-recommendation 1.1.0 Recommendation API</title>
@@ -12588,7 +12588,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ebay.com:sell-recommendation</guid>
       <pubDate>Thu, 16 Jul 2020 10:12:51 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>ebi.ac.uk 1.0 CROssBAR Data API</title>
@@ -13317,7 +13317,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com</guid>
       <pubDate>Fri, 18 Jun 2021 13:57:32 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:api.github.com 1.1.4 GitHub v3 REST API</title>
@@ -13326,7 +13326,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:api.github.com</guid>
       <pubDate>Tue, 28 Jul 2020 11:39:09 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:api.github.com.2022-11-28 1.1.4 GitHub v3 REST API</title>
@@ -13335,7 +13335,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:api.github.com.2022-11-28</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghec 1.1.4 GitHub v3 REST API</title>
@@ -13344,7 +13344,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghec</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghec.2022-11-28 1.1.4 GitHub v3 REST API</title>
@@ -13353,7 +13353,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghec.2022-11-28</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-2.18 1.1.4 GitHub v3 REST API</title>
@@ -13362,7 +13362,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-2.18</guid>
       <pubDate>Wed, 09 Jun 2021 13:41:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-2.19 1.1.4 GitHub v3 REST API</title>
@@ -13371,7 +13371,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-2.19</guid>
       <pubDate>Wed, 09 Jun 2021 13:41:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-2.20 1.1.4 GitHub v3 REST API</title>
@@ -13380,7 +13380,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-2.20</guid>
       <pubDate>Wed, 09 Jun 2021 13:41:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-2.21 1.1.4 GitHub v3 REST API</title>
@@ -13389,7 +13389,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-2.21</guid>
       <pubDate>Wed, 09 Jun 2021 13:41:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-2.22 1.1.4 GitHub v3 REST API</title>
@@ -13398,7 +13398,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-2.22</guid>
       <pubDate>Wed, 09 Jun 2021 13:41:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.0 1.1.4 GitHub v3 REST API</title>
@@ -13407,7 +13407,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.0</guid>
       <pubDate>Wed, 09 Jun 2021 13:41:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.1 1.1.4 GitHub v3 REST API</title>
@@ -13416,7 +13416,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.1</guid>
       <pubDate>Wed, 09 Jun 2021 13:41:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.2 1.1.4 GitHub v3 REST API</title>
@@ -13425,7 +13425,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.2</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.3 1.1.4 GitHub v3 REST API</title>
@@ -13434,7 +13434,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.3</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.4 1.1.4 GitHub v3 REST API</title>
@@ -13443,7 +13443,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.4</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.5 1.1.4 GitHub v3 REST API</title>
@@ -13452,7 +13452,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.5</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.6 1.1.4 GitHub v3 REST API</title>
@@ -13461,7 +13461,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.6</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.7 1.1.4 GitHub v3 REST API</title>
@@ -13470,7 +13470,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.7</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:ghes-3.8 1.1.4 GitHub v3 REST API</title>
@@ -13479,7 +13479,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:ghes-3.8</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>github.com:github.ae 1.1.4 GitHub v3 REST API</title>
@@ -13488,7 +13488,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">github.com:github.ae</guid>
       <pubDate>Wed, 15 Feb 2023 18:23:37 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>gitlab.com v3 Gitlab</title>
@@ -16314,7 +16314,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">hetzner.cloud</guid>
       <pubDate>Mon, 01 Feb 2021 17:16:19 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www.hetzner.com_themes_hetzner_images_favicons_apple-touch-icon.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www_hetzner_com_themes_hetzner_images_favicons_apple-touch-icon.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>hhs.gov 2 HHS Media Services API</title>
@@ -16539,7 +16539,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">id4i.de</guid>
       <pubDate>Mon, 24 Aug 2020 13:10:30 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_id4i.de_wp-content_uploads_2017_11_id4d_logo_h87.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_id4i_de_wp-content_uploads_2017_11_id4d_logo_h87.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>ideaconsult.net:enanomapper 4.0.0 eNanoMapper database</title>
@@ -16566,7 +16566,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">ideal-postcodes.co.uk</guid>
       <pubDate>Tue, 13 Jul 2021 09:20:12 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_ideal-postcodes.co.uk_apple-icon-57x57.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_ideal-postcodes_co_uk_apple-icon-57x57.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>idtbeyond.com 1.1.7 Active Documentation for /v1</title>
@@ -17331,7 +17331,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">linuxfoundation.org:reimbursement</guid>
       <pubDate>Mon, 07 Jun 2021 19:50:26 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_linuxfoundation.org_wp-content_uploads_lf_yoast.jpg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_linuxfoundation_org_wp-content_uploads_lf_yoast.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>listennotes.com 2.0 Listen API: Podcast Search, Directory, and Insights API</title>
@@ -17475,7 +17475,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">mailscript.com</guid>
       <pubDate>Wed, 03 Mar 2021 20:21:38 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_mailscript.com_images_favicon.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_mailscript_com_images_favicon.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>mandrillapp.com 1.0 Mandrill</title>
@@ -17952,7 +17952,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">mist.com</guid>
       <pubDate>Mon, 23 Aug 2021 10:16:31 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_cdn.mist.com_wp-content_uploads_logo.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_cdn_mist_com_wp-content_uploads_logo.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>moderatecontent.com 1.0.0 Image Moderation</title>
@@ -18717,7 +18717,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">onsched.com:consumer</guid>
       <pubDate>Wed, 10 Feb 2021 08:17:41 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_onsched.com_img_apple-touch-icon-57x57-precomposed.ico" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_onsched_com_img_apple-touch-icon-57x57-precomposed.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>onsched.com:setup v1 OnSched Setup API</title>
@@ -18726,7 +18726,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">onsched.com:setup</guid>
       <pubDate>Wed, 10 Feb 2021 08:23:05 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_onsched.com_img_apple-touch-icon-57x57-precomposed.ico" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_onsched_com_img_apple-touch-icon-57x57-precomposed.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>onsched.com:utility v1 OnSched API Utility</title>
@@ -18735,7 +18735,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">onsched.com:utility</guid>
       <pubDate>Wed, 10 Feb 2021 08:22:45 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_onsched.com_img_apple-touch-icon-57x57-precomposed.ico" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_onsched_com_img_apple-touch-icon-57x57-precomposed.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>openai.com 1.2.0 OpenAI API</title>
@@ -19167,7 +19167,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">pandascore.co</guid>
       <pubDate>Fri, 09 Jul 2021 11:29:36 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_pandascore.co_apple-touch-icon.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_pandascore_co_apple-touch-icon.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>pandorabots.com 1.0.0 Pandorabots AIaaS</title>
@@ -19383,7 +19383,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">pdfgeneratorapi.com</guid>
       <pubDate>Fri, 10 Jul 2020 08:57:08 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_pdfgeneratorapi.com_assets_web_images_logo_and_text_white.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_pdfgeneratorapi_com_assets_web_images_logo_and_text_white.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>peel-ci.com 1.0.0 Peel Tune-in API</title>
@@ -19554,7 +19554,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">presalytics.io:converter</guid>
       <pubDate>Mon, 24 Aug 2020 08:22:47 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_presalytics.io_static_img_Logo_Logos_Orange-White_navbar.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_presalytics_io_static_img_Logo_Logos_Orange-White_navbar.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>presalytics.io:ooxml 0.1.0 OOXML Automation</title>
@@ -19563,7 +19563,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">presalytics.io:ooxml</guid>
       <pubDate>Mon, 24 Aug 2020 08:22:10 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_presalytics.io_static_img_Logo_Logos_Orange-White_navbar.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_presalytics_io_static_img_Logo_Logos_Orange-White_navbar.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>presalytics.io:story 0.3.1 Story</title>
@@ -19572,7 +19572,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">presalytics.io:story</guid>
       <pubDate>Mon, 24 Aug 2020 08:21:39 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_presalytics.io_static_img_Logo_Logos_Orange-White_navbar.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_presalytics_io_static_img_Logo_Logos_Orange-White_navbar.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>pressassociation.io 2.0 TV API</title>
@@ -19707,7 +19707,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">rapidapi.com:ecowetter</guid>
       <pubDate>Sat, 04 Mar 2023 15:32:20 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Rapid_API_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Rapid_API_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>rapidapi.com:football-prediction 2 Football Prediction API</title>
@@ -19716,7 +19716,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">rapidapi.com:football-prediction</guid>
       <pubDate>Wed, 14 Nov 2018 17:13:11 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Rapid_API_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Rapid_API_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>rapidapi.com:idealspot-geodata 1.0 IdealSpot GeoData</title>
@@ -19725,7 +19725,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">rapidapi.com:idealspot-geodata</guid>
       <pubDate>Fri, 10 Jul 2020 08:57:08 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Rapid_API_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Rapid_API_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>rapidapi.com:language-identification 1.0.0 Language Identification (Prediction)</title>
@@ -19734,7 +19734,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">rapidapi.com:language-identification</guid>
       <pubDate>Tue, 30 Apr 2019 10:44:16 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Rapid_API_profile_image.jpeg" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Rapid_API_profile_image.svg.jpeg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>rapidapi.com:spellcheckpro 1.0.0 SpellCheckPro</title>
@@ -19743,7 +19743,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">rapidapi.com:spellcheckpro</guid>
       <pubDate>Wed, 15 Mar 2023 14:06:52 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter.com_Rapid_API_profile_image" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_twitter_com_Rapid_API_profile_image.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>rawg.io v1.0 RAWG Video Games Database API</title>
@@ -19950,7 +19950,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">rumble.run</guid>
       <pubDate>Tue, 15 Jun 2021 10:26:51 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/__www.rumble.run_img_rumble-twitter-card.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/__www_rumble_run_img_rumble-twitter-card.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>runscope.com 1.0.0 Runscope API</title>
@@ -20211,7 +20211,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">sinao.app</guid>
       <pubDate>Fri, 24 Mar 2023 16:27:44 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_sinao.app_icon.ico" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_sinao_app_icon.svg" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>skynewz-api-fortnite.herokuapp.com 3.1.5 FORTNITE REST API</title>
@@ -20292,7 +20292,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">solarvps.com</guid>
       <pubDate>Sun, 19 Jul 2015 21:19:14 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_solarvps.com_wp-content_themes_solarvps_images_logo-footer@2x.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_solarvps_com_wp-content_themes_solarvps_images_logo-footer@2x.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>sonar.trading 1.0 Sonar Trading</title>
@@ -20328,7 +20328,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">spinbot.net</guid>
       <pubDate>Wed, 22 Nov 2017 17:18:15 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core.clearbit.com_spinbot.net" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core_clearbit_com_spinbot.png" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>spinitron.com 1.0.0 Spinitron v2 API</title>
@@ -20670,7 +20670,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">spotify.com</guid>
       <pubDate>Fri, 18 Jun 2021 13:57:32 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core.clearbit.com_spotify.com" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core_clearbit_com_spotify.png" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>spotify.com:sonallux 2023.2.27 Spotify Web API with fixes and improvements from sonallux</title>
@@ -20679,7 +20679,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">spotify.com:sonallux</guid>
       <pubDate>Fri, 18 Jun 2021 13:57:32 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core.clearbit.com_spotify.com" length="15026" type="image/jpeg"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_logo-core_clearbit_com_spotify.png" length="15026" type="image/jpeg"/>
     </item>
     <item>
       <title>squareup.com 2.0 Square Connect API</title>
@@ -21192,7 +21192,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">truora.com</guid>
       <pubDate>Mon, 16 Aug 2021 15:11:22 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_docs.truora.com_logo.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_docs_truora_com_logo.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>tsapi.net v1 TSAPI</title>
@@ -21201,7 +21201,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">tsapi.net</guid>
       <pubDate>Tue, 16 Feb 2021 20:06:08 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www.tsapi.net_wp-content_uploads_2019_11_cropped-icon-black-1-180x180.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/https_www_tsapi_net_wp-content_uploads_2019_11_cropped-icon-black-1-180x180.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>turbinelabs.io 1.0 Turbine Labs API</title>
@@ -22317,7 +22317,7 @@
       <category>APIs</category>
       <guid isPermaLink="false">wealthreader.com</guid>
       <pubDate>Sat, 04 Mar 2023 15:26:35 GMT</pubDate>
-      <enclosure url="https://api.apis.guru/v2/cache/logo/.._.._i_favicon.png" length="15026" type="image/png"/>
+      <enclosure url="https://api.apis.guru/v2/cache/logo/______i_favicon.svg" length="15026" type="image/png"/>
     </item>
     <item>
       <title>weatherbit.io 2.0.0 Weatherbit - Interactive Swagger UI Documentation</title>

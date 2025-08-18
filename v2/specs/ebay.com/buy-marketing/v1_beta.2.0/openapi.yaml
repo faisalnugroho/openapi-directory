@@ -15,7 +15,7 @@ info:
     - ecommerce
   x-logo:
     backgroundColor: "#FFFFFF"
-    url: https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg
+    url: https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg
   x-origin:
     - format: openapi
       url: https://developer.ebay.com/api-docs/master/buy/marketing/openapi/2/buy_marketing_v1_beta_oas2.json

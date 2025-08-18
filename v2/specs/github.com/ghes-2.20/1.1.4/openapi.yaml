@@ -23,7 +23,7 @@ info:
     - collaboration
     - developer_tools
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_twitter.com_github_profile_image.jpeg
+    url: https://api.apis.guru/v2/cache/logo/https_twitter_com_github_profile_image.svg.jpeg
   x-origin:
     - format: openapi
       url: https://raw.githubusercontent.com/github/rest-api-description/main/descriptions/ghes-2.20/ghes-2.20.json

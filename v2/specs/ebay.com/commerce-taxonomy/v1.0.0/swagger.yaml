@@ -17,7 +17,7 @@ info:
     - ecommerce
   x-logo:
     backgroundColor: "#FFFFFF"
-    url: https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg
+    url: https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg
   x-origin:
     - format: swagger
       url: https://developer.ebay.com/api-docs/master/commerce/taxonomy/openapi/2/commerce_taxonomy_v1_beta_oas2.json

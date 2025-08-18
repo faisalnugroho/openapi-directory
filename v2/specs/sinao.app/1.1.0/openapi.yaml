@@ -18,7 +18,7 @@ info:
   x-apisguru-categories:
     - financial
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_sinao.app_icon.ico
+    url: https://api.apis.guru/v2/cache/logo/https_sinao_app_icon.svg
   x-origin:
     - format: openapi
       url: https://api.sinao.app/v1/swagger.yaml

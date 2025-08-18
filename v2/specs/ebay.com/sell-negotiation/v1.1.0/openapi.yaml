@@ -19,7 +19,7 @@ info:
     - ecommerce
   x-logo:
     backgroundColor: "#FFFFFF"
-    url: https://api.apis.guru/v2/cache/logo/https_twitter.com_ebay_profile_image.jpeg
+    url: https://api.apis.guru/v2/cache/logo/https_twitter_com_ebay_profile_image.svg.jpeg
   x-origin:
     - format: openapi
       url: https://developer.ebay.com/api-docs/master/sell/negotiation/openapi/3/sell_negotiation_v1_oas3.json

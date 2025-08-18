@@ -10,7 +10,7 @@ info:
   x-apisguru-categories:
     - email
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_mailscript.com_images_favicon.png
+    url: https://api.apis.guru/v2/cache/logo/https_mailscript_com_images_favicon.svg
   x-origin:
     - format: openapi
       url: http://api.mailscript.com/v2/swagger

@@ -48,7 +48,7 @@ info:
   x-apisguru-categories:
     - payment
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_twitter.com_Adyen_profile_image
+    url: https://api.apis.guru/v2/cache/logo/https_twitter_com_Adyen_profile_image.svg
   x-origin:
     - format: openapi
       url: https://raw.githubusercontent.com/Adyen/adyen-openapi/main/json/PayoutService-v64.json

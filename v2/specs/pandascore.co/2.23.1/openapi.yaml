@@ -147,7 +147,7 @@ info:
   x-apisguru-categories:
     - entertainment
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_pandascore.co_apple-touch-icon.png
+    url: https://api.apis.guru/v2/cache/logo/https_pandascore_co_apple-touch-icon.svg
   x-origin:
     - format: openapi
       url: blob:https://developers.pandascore.co/blobId

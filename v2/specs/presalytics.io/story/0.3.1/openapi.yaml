@@ -8,7 +8,7 @@ info:
   x-apisguru-categories:
     - analytics
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_presalytics.io_static_img_Logo_Logos_Orange-White_navbar.png
+    url: https://api.apis.guru/v2/cache/logo/https_presalytics_io_static_img_Logo_Logos_Orange-White_navbar.svg
   x-origin:
     - format: openapi
       url: https://api.presalytics.io/story/openapi.json

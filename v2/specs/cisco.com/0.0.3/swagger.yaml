@@ -34,7 +34,7 @@ info:
   x-apisguru-categories:
     - security
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_logo-core.clearbit.com_cisco.com
+    url: https://api.apis.guru/v2/cache/logo/https_logo-core_clearbit_com_cisco.png
   x-origin:
     - format: swagger
       url: https://raw.githubusercontent.com/CiscoPSIRT/openVulnAPI/master/swagger/openVulnAPISwagger0_0_3.yaml

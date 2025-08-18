@@ -351,7 +351,7 @@ info:
   x-apisguru-categories:
     - hosting
   x-logo:
-    url: https://api.apis.guru/v2/cache/logo/https_www.hetzner.com_themes_hetzner_images_favicons_apple-touch-icon.png
+    url: https://api.apis.guru/v2/cache/logo/https_www_hetzner_com_themes_hetzner_images_favicons_apple-touch-icon.svg
   x-origin:
     - format: openapi
       url: https://docs.hetzner.cloud/spec.json
