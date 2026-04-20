@@ -150,3 +150,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 ## Partners
 
 Support this project by becoming a partner. Your logo will be displayed prominently in this project and we will work with you to publicise and showcase your projects. [Become a partner](https://opencollective.com/openapi-directory#partner).
+
+
+This project is tested with BrowserStack.
